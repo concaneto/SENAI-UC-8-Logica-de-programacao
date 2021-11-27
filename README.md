@@ -14,3 +14,7 @@ https://docs.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-on-wi
 o instalador ficará disponível aqui neste reposítorio
 
 foi instalado o node version maneger para que sejam possíveis os acessos as versões mais atuais e que identifiquem o node.js 
+
+persistindo o erro, foi feita a alteração dos nomes das pastas, retirando todos os espaços. Checada a versão do node com o "node --version"
+
+depois disso deu certo
