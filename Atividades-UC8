@@ -8,3 +8,17 @@ console.log(nomeDoEstudante);
 
 //Em outras linguagens, portanto, você encontrará    algo semelhante a:
 String: nomeEstudante = "Helena";
+
+
+
+Comandos do JS vistos nesse módulo
+
+"let variavel = " -> declaração de variável;
+" variavel.length " -> Qnt de termos do Array;
+"variável.push" -> add elemento no array;
+
+"do {comando} while (condição) " -> Repetiçao;
+"while (condição) {comando} " -> Repetição;
+"for (declara contador; valor final do contador; contador++) {comandos} " -> Repetição;
+
+if (condição) {comando se verdadeiro} else {comando se falso};
