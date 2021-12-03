@@ -1,4 +1,4 @@
-/*
+/* REGRAS DO NEGÓCIO
 1. se a data do evento for posterior a atual, permitir o evento;
 senão, alertar que o cadastro não será permitido por data inválida
 
@@ -69,7 +69,11 @@ if (confirmacao != 0) {
     console.log ("Qual a sua idade?")
 // leia idade
     let idade = 18
-    console.log ("você tem " + idade + " anos")
+    
+    // testando funcionalidade
+    //console.log ("você tem " + idade + " anos")
+    console.log ("você tem %i anos", idade)
+
     if (idade < 18) {
     
     console.log ("Sorry... muito novo para continuar o cadastro.")
