@@ -18,3 +18,6 @@ foi instalado o node version maneger para que sejam possíveis os acessos as ver
 persistindo o erro, foi feita a alteração dos nomes das pastas, retirando todos os espaços. Checada a versão do node com o "node --version"
 
 depois disso deu certo
+
+
+Consta ainda nos documentos do repositório o sistema de pecas feito durante o encontro remoto 1; o sistema de eventos, referente a atividade proposta no módulo; o fluxograma do sistema de eventos, em formato PDF, e em formato png, feito no draw.io.
